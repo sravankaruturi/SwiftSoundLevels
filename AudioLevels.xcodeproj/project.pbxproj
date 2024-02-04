@@ -13,6 +13,8 @@
 		F6D06BB62B6C0D7800769241 /* ImmersiveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6D06BB52B6C0D7800769241 /* ImmersiveView.swift */; };
 		F6D06BB82B6C0D7B00769241 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F6D06BB72B6C0D7B00769241 /* Assets.xcassets */; };
 		F6D06BBB2B6C0D7B00769241 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F6D06BBA2B6C0D7B00769241 /* Preview Assets.xcassets */; };
+		F6D06BC32B6C0DCF00769241 /* AudioCapture.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6D06BC22B6C0DCF00769241 /* AudioCapture.swift */; };
+		F6D06BC52B6C127C00769241 /* Graph.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6D06BC42B6C127C00769241 /* Graph.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		F6D06BB72B6C0D7B00769241 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F6D06BBA2B6C0D7B00769241 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		F6D06BBC2B6C0D7B00769241 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F6D06BC22B6C0DCF00769241 /* AudioCapture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioCapture.swift; sourceTree = "<group>"; };
+		F6D06BC42B6C127C00769241 /* Graph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Graph.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +68,8 @@
 				F6D06BB72B6C0D7B00769241 /* Assets.xcassets */,
 				F6D06BBC2B6C0D7B00769241 /* Info.plist */,
 				F6D06BB92B6C0D7B00769241 /* Preview Content */,
+				F6D06BC22B6C0DCF00769241 /* AudioCapture.swift */,
+				F6D06BC42B6C127C00769241 /* Graph.swift */,
 			);
 			path = AudioLevels;
 			sourceTree = "<group>";
@@ -160,6 +166,8 @@
 				F6D06BB42B6C0D7800769241 /* ContentView.swift in Sources */,
 				F6D06BB22B6C0D7800769241 /* AudioLevelsApp.swift in Sources */,
 				F6D06BB62B6C0D7800769241 /* ImmersiveView.swift in Sources */,
+				F6D06BC32B6C0DCF00769241 /* AudioCapture.swift in Sources */,
+				F6D06BC52B6C127C00769241 /* Graph.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
